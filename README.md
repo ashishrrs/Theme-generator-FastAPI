@@ -1,4 +1,6 @@
-#Task - Theme Generator:
+
+
+## Task - Theme Generator:
 
 A theme generator is a tool that is used to buildcustom home pages. The home
 page consists of t types of banners which are of 2types of right banners(center)
